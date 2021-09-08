@@ -1,7 +1,7 @@
 
 # Verifiable Credentials Guide (W3C Community Note Draft)
 
-This is the repository for Verifiable Credentials Guide (W3C Community Note).
+This is the repository for the Verifiable Credentials Guide (W3C Community Note).
 
 Work Item Proposal: [Verifiable Credentials Guide (VC-GUIDE)](https://github.com/w3c-ccg/community/issues/206)
 
