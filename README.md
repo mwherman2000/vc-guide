@@ -3,7 +3,7 @@
 
 This is the repository for Verifiable Credentials Guide (W3C Community Note).
 
-Work Item Proposal: [Verifiable Credentials Guide (VC-GUIDE-DEVELOPERS)](https://github.com/w3c-ccg/community/issues/206)
+Work Item Proposal: [Verifiable Credentials Guide (VC-GUIDE)](https://github.com/w3c-ccg/community/issues/206)
 
 ## Remove everything from this line when you're done
 
